@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # twitter
 
 ## Project setup
